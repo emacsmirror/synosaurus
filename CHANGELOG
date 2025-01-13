@@ -1,4 +1,8 @@
 # -*- mode: org -*-
+* v0.2.1  [2025-01-13]
+** Packaging
+
+- Move metadata from synosaurus-pkg.el to synosaurus.el
 
 * v0.2.0  [2019-11-25]
 ** Features
